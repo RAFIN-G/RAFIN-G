@@ -1,36 +1,52 @@
-<div align="center">
-  <img alt="Rafin — CSE Student and Developer" src="./assets/profile-banner.svg" width="100%">
-</div>
-
 <p align="center">
-  <a href="https://github.com/RAFIN-G/ModSeeker">ModSeeker</a>
-  ·
-  <a href="https://github.com/RAFIN-G/Hidder">Hidder</a>
+  <img alt="Animated terminal introducing Rafin, his projects, and what he is learning" src="./assets/terminal-hero.gif" width="100%">
 </p>
 
 ## About
 
-I'm Rafin, a CSE student and developer. Most of my public work right now is open-source Minecraft tooling.
+I like taking systems apart to understand how they work, then turning what I learn into useful tools. Most of my public work right now is open-source Minecraft tooling.
 
 ## Projects
 
-### [ModSeeker](https://github.com/RAFIN-G/ModSeeker)
+<table>
+  <tr>
+    <td width="92" align="center">
+      <img src="./assets/modseeker-logo.png" width="72" alt="ModSeeker logo">
+    </td>
+    <td>
+      <strong><a href="https://github.com/RAFIN-G/ModSeeker">ModSeeker</a></strong><br>
+      Minecraft server plugin for checking client mods and launchers against a server's rules. Works with Hidder for client-side verification.<br><br>
+      <code>Java</code> <code>Paper</code> · <a href="https://github.com/RAFIN-G/ModSeeker">GitHub</a> · <a href="https://modrinth.com/plugin/modseeker">Modrinth</a>
+    </td>
+  </tr>
+</table>
 
-A Paper plugin that lets server owners check a player's installed mods and launcher against their server rules. It works with Hidder on the client.
-
-[GitHub](https://github.com/RAFIN-G/ModSeeker) · [Modrinth](https://modrinth.com/plugin/modseeker)
-
-### [Hidder](https://github.com/RAFIN-G/Hidder)
-
-A Fabric client mod that reports installed mods and launcher information to servers running ModSeeker.
-
-[GitHub](https://github.com/RAFIN-G/Hidder) · [Modrinth](https://modrinth.com/mod/hidder)
+<table>
+  <tr>
+    <td width="92" align="center">
+      <img src="./assets/hidder-logo.png" width="72" alt="Hidder logo">
+    </td>
+    <td>
+      <strong><a href="https://github.com/RAFIN-G/Hidder">Hidder</a></strong><br>
+      Fabric client companion for ModSeeker that reports mod and launcher information for verification.<br><br>
+      <code>Java</code> <code>Fabric</code> <code>C++</code> · <a href="https://github.com/RAFIN-G/Hidder">GitHub</a> · <a href="https://modrinth.com/mod/hidder">Modrinth</a>
+    </td>
+  </tr>
+</table>
 
 ## Tools
 
 `Java` · `C++` · `Git` · `Paper` · `Fabric` · `Gradle` · `JNI` · `OpenSSL`
 
 **Learning:** `Python` · `AI/ML`
+
+## Now
+
+```text
+learning    Python + AI/ML
+building    ModSeeker / Hidder
+exploring   new software ideas
+```
 
 ## Activity
 
@@ -42,4 +58,4 @@ A Fabric client mod that reports installed mods and launcher information to serv
 
 ## Code crawler
 
-<img alt="A small mechanical crawler moving over real ModSeeker protocol constants" src="./assets/crawler.gif" width="100%">
+<img alt="A small mascot crawling over real ModSeeker protocol constants" src="./assets/crawler.gif" width="100%">
