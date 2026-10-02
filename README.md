@@ -56,6 +56,6 @@ exploring   new software ideas
   <img alt="Contribution snake moving across Rafin's GitHub activity graph" src="./assets/contribution-snake-light.svg" width="100%">
 </picture>
 
-## Code crawler
+## Project Horizon
 
-<img alt="A small mascot crawling over real ModSeeker protocol constants" src="./assets/crawler.gif" width="100%">
+<img alt="A small mascot crawling through a Python inference loop" src="./assets/crawler.gif" width="100%">
