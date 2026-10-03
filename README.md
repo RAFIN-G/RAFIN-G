@@ -16,7 +16,7 @@ I like taking systems apart to understand how they work, then turning what I lea
     <td>
       <strong><a href="https://github.com/RAFIN-G/ModSeeker">ModSeeker</a></strong><br>
       Minecraft server plugin for checking client mods and launchers against a server's rules. Works with Hidder for client-side verification.<br><br>
-      <code>Java</code> <code>Paper</code> · <a href="https://github.com/RAFIN-G/ModSeeker">GitHub</a> · <a href="https://modrinth.com/plugin/modseeker">Modrinth</a>
+      <code>Java</code> <code>Paper</code> · <a href="https://modrinth.com/plugin/modseeker">Modrinth</a>
     </td>
   </tr>
 </table>
@@ -29,7 +29,7 @@ I like taking systems apart to understand how they work, then turning what I lea
     <td>
       <strong><a href="https://github.com/RAFIN-G/Hidder">Hidder</a></strong><br>
       Fabric client companion for ModSeeker that reports mod and launcher information for verification.<br><br>
-      <code>Java</code> <code>Fabric</code> <code>C++</code> · <a href="https://github.com/RAFIN-G/Hidder">GitHub</a> · <a href="https://modrinth.com/mod/hidder">Modrinth</a>
+      <code>Java</code> <code>Fabric</code> <code>C++</code> ·  <a href="https://modrinth.com/mod/hidder">Modrinth</a>
     </td>
   </tr>
 </table>
