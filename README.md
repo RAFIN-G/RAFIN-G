@@ -58,4 +58,4 @@ exploring   new software ideas
 
 ## Project Horizon
 
-<img alt="A small mascot crawling through a Python inference loop" src="./assets/crawler.gif" width="100%">
+<img alt="A small mascot finding and repairing bugs in a Python inference loop" src="./assets/horizon-code-repair.gif" width="100%">
